@@ -1,66 +1,52 @@
-# mazingira-ai
-A generative chatbot for creating climate change awareness and debunking myths
+# Mazingira-AI
+### Climate Awareness Chatbot
 
+## Hack4Climate
+Tech against climate issues.
 
-# Hack4Climate
+## Team
+- Danroy Mwangi
+- Mitchelle Okubasu
+- Victor Mwangi
 
-Hack4Climate is a virtual hackathon that is aimed at harnessing the power of tech to solve issues around climate change
+## Challenge
+Innovate with Azure and GitHub for climate solutions.
 
-## Team Members  
-- Danroy Mwangi  
-- Mitchelle Okubasu  
-- Victor Mwangi  
-
-## The Challenge  
-
-Teams should develop cutting-edge Data Science solutions using Azure and GitHub to address climate
-change-related issues. The solution should be impactful, sustainable, environmentally
-conservative and climate resilient  
-
-## Overview  
-Climate change is one of the most critical global challenges of our time. The Climate Hackathon brings together bright minds, developers, data scientists, and climate enthusiasts to work on solutions that can make a positive impact on our environment. 
-
-## Goal  
-
-* To raise awareness and educate people on climate change and its impact
-* To do away with the misconceptions around climate change
-
-## Solution Overview
-Mazingira-ai addresses the problem of insufficient awareness and understanding of climate change by providing real-time information, personalized recommendations, answers to FAQs, and climate-related updates.
+## Solution
+Mazingira-AI: Chatbot for climate education and myth busting.
 
 ## Target Market
-Our primary target audience includes individuals, educational institutions, environmental organizations, businesses, and government agencies.
+- Individuals & Educators
+- Environmental Groups
+- Businesses & Governments
 
 ## Importance
-mazingira-ai is needed in the real world to bridge the gap between climate science and public awareness, empowering individuals and organizations to make informed decisions.  
+Bridges gap between climate science and public awareness.
 
-## Effect on Climate Change
-mazingira-ai positively impacts climate change by educating users, encouraging eco-friendly choices, promoting sustainability, and mobilizing an informed community.
+## Impact
+Fosters sustainability and collective climate action.
 
-## Business Aspect
-- Revenue Model: Through patnerships with organisations such as the United
-  Nations and major stakeholders in the climate change drive, governments and companies looking
-  forward to achieve carbon neutrality as stipulated in their goals.
+## Business Model
+- UN & Corporate Partnerships
+- Promotes AI for climate initiatives
+- Supports SDGs: Quality Education (4), Climate Action (13), Partnerships for the Goals (17)
 
-- Market Growth: With an ever increasing need for climate action now and also AI  
-  as an emerging technology, we look forward to creating awareness through the growing adoption of AI  
-
-- Social Responsibility: By creating awareness on climate change, we implement the United Nations Sustainable Development Goal(SDGs) on Quality Education by tackling myths and misconceptions that sorround climate change.
-
-## Technology Aspect
-- Deep Learning & Natural Language Processing: mazingira-ai is a transformer model that uses advanced Deep Learning and NLP to understand and respond to user queries.
-- Scalability: The platform is designed to handle a growing user base.
-- Data Security: User data is protected through security measures.
+## Technology
+- Deep Learning & NLP
+- Scalable design
+- Data security
 
 ## Advantages
-- Debunks myths and misconceptions that sorrounding climate change.
-- 24/7 Accessibility: mazingira-ai is available anytime and on any device with
-  an internet connection.
-- Personalization: It tailors recommendations based on user preferences.
-- Scalable Impact: Reaches a wide audience, creating a larger collective effect on climate change awareness.
+- 24/7 Accessibility
+- Personalized service
+- Broad educational outreach
 
 ## Disadvantages
-- Hallucinations: The model is trained on a limited amount of data and its
-  accuracy is still a work in progress affecting predictions once in a while.
-- Dependence on Technology: mazingira-ai may exclude individuals without internet access.
-- Data Privacy Concerns: Users may have data privacy concerns
+- Data limitations
+- Internet access required
+- Privacy concerns
+
+## Resources
+- AI Model: [Hugging Face Model](https://huggingface.co/Danroy/mazingira-gpt)
+- Training Dataset: [Kaggle Climate Dataset](https://www.kaggle.com/datasets/bouweceunen/climate-fever-dataset)
+- Frontend Code: [GitHub Repository](https://github.com/Big-Data-Brawlers/mazingira-ai-frontend)
