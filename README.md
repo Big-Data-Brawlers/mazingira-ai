@@ -48,7 +48,7 @@ mazingira-ai positively impacts climate change by educating users, encouraging e
 - Social Responsibility: By creating awareness on climate change, we implement the United Nations Sustainable Development Goal(SDGs) on Quality Education by tackling myths and misconceptions that sorround climate change.
 
 ## Technology Aspect
-- DL & NLP: mazingira-ai is a transfer learning model that uses advanced DL and NLP to understand and respond to user queries.
+- Deep Learning & Natural Language Processing: mazingira-ai is a transformer model that uses advanced Deep Learning and NLP to understand and respond to user queries.
 - Scalability: The platform is designed to handle a growing user base.
 - Data Security: User data is protected through security measures.
 
