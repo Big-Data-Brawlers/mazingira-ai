@@ -35,11 +35,12 @@ Our primary target audience includes individuals, educational institutions, envi
 mazingira-ai is needed in the real world to bridge the gap between climate science and public awareness, empowering individuals and organizations to make informed decisions.  
 
 ## Effect on Climate Change
-ClimateBot positively impacts climate change by educating users, encouraging eco-friendly choices, promoting sustainability, and mobilizing an informed community.
+mazingira-ai positively impacts climate change by educating users, encouraging eco-friendly choices, promoting sustainability, and mobilizing an informed community.
 
 ## Business Aspect
-- Revenue Model: Through patnerships with organisations and major stakeholders
-  in the climate change drive.  
+- Revenue Model: Through patnerships with organisations such as the United
+  Nations and major stakeholders in the climate change drive, governments and companies looking
+  forward to achieve carbon neutrality as stipulated in their goals.
 
 - Market Growth: With an ever increasing need for climate action now and also AI  
   as an emerging technology, we look forward to creating awareness through the growing adoption of AI  
@@ -47,16 +48,19 @@ ClimateBot positively impacts climate change by educating users, encouraging eco
 - Social Responsibility: By creating awareness on climate change, we implement the United Nations Sustainable Development Goal(SDGs) on Quality Education by tackling myths and misconceptions that sorround climate change.
 
 ## Technology Aspect
-- AI & NLP: mazingira-ai uses advanced AI and NLP to understand and respond to user queries.
+- DL & NLP: mazingira-ai is a transfer learning model that uses advanced DL and NLP to understand and respond to user queries.
 - Scalability: The platform is designed to handle a growing user base.
 - Data Security: User data is protected through security measures.
 
 ## Advantages
+- Debunks myths and misconceptions that sorrounding climate change.
 - 24/7 Accessibility: mazingira-ai is available anytime and on any device with
   an internet connection.
 - Personalization: It tailors recommendations based on user preferences.
 - Scalable Impact: Reaches a wide audience, creating a larger collective effect on climate change awareness.
 
 ## Disadvantages
-- Dependence on Technology: ClimateBot may exclude individuals without internet access.
+- Hallucinations: The model is trained on a limited amount of data and its
+  accuracy is still a work in progress affecting predictions once in a while.
+- Dependence on Technology: mazingira-ai may exclude individuals without internet access.
 - Data Privacy Concerns: Users may have data privacy concerns
